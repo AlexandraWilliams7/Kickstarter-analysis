@@ -7,7 +7,7 @@
 ## Analysis of Outcomes Based on Launch Date
 ### Conclusion 1: May is the most successful month to launch a campaign
 ### Conclusion 2: Cancelations of campaigns are very low for any month except October were there were none
-##### 
+##### ![Theater_Outcomes_table](https://user-images.githubusercontent.com/105830665/174222490-d4f13428-11b6-407d-b9eb-04d1ec728b39.png)
 
 
 
